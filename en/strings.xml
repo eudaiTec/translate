@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="better_than_ever">We are better than ever</string>
-    <string name="stability">Update for Improved Stability!</string>
-    <string name="update_features1">Experience a more stable and reliable</string>
-    <string name="update_features2">We have worked hard to enhance the performance and turn bugs into features.</string>
-    <string name="update_features3">Update now to enjoy the benefits of a smoother and feature-packed app.</string>
-    <string name="update">Update</string>
-</resources>
